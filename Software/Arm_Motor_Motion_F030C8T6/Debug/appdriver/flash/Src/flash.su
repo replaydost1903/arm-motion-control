@@ -1,0 +1,9 @@
+../appdriver/flash/Src/flash.c:24:6:write_page	16	static
+../appdriver/flash/Src/flash.c:60:6:erase_page	16	static
+../appdriver/flash/Src/flash.c:98:6:erase_mass	8	static
+../appdriver/flash/Src/flash.c:133:6:flash_init	40	static
+../appdriver/flash/Src/flash.c:258:6:user_flash_write	16	static
+../appdriver/flash/Src/flash.c:286:10:read_flash	24	static
+../appdriver/flash/Src/flash.c:292:14:two_struct_compare	8	static
+../appdriver/flash/Src/flash.c:328:13:write_operations	16	static
+../appdriver/flash/Src/flash.c:397:13:copy_struct	8	static

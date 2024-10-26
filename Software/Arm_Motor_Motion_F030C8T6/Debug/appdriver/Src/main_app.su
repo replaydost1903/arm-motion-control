@@ -1,0 +1,14 @@
+../appdriver/Src/main_app.c:31:6:HAL_GPIO_EXTI_Callback	16	static
+../appdriver/Src/main_app.c:45:6:motor_motion_init	8	static
+../appdriver/Src/main_app.c:55:6:motor_motion_control	8	static
+../appdriver/Src/main_app.c:129:6:motor_motion_reset	8	static
+../appdriver/Src/main_app.c:140:13:system_test_led	16	static
+../appdriver/Src/main_app.c:174:13:system_test_buzzer	16	static
+../appdriver/Src/main_app.c:204:13:system_test_speaker	16	static
+../appdriver/Src/main_app.c:247:13:system_test_motor	16	static
+../appdriver/Src/main_app.c:297:13:motor_led_1_process	8	static
+../appdriver/Src/main_app.c:308:13:motor_led_2_process	8	static
+../appdriver/Src/main_app.c:319:13:motor_buzzer_process	8	static
+../appdriver/Src/main_app.c:330:13:motor_speaker_process	8	static
+../appdriver/Src/main_app.c:342:6:motor_motion_process	8	static
+../appdriver/Src/main_app.c:350:13:motor_turn_process	32	static

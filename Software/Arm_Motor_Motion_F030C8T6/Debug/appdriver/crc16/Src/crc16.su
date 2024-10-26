@@ -1,0 +1,4 @@
+../appdriver/crc16/Src/crc16.c:52:10:crc_16	40	static
+../appdriver/crc16/Src/crc16.c:80:10:crc_modbus	40	static
+../appdriver/crc16/Src/crc16.c:107:10:update_crc_16	16	static
+../appdriver/crc16/Src/crc16.c:124:13:init_crc16_tab	16	static
